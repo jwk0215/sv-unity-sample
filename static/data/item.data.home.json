@@ -1,0 +1,182 @@
+{
+    "bed": [
+        {
+            "name": "침대 1",
+            "prefabName": "Bed_01",
+            "price": 50,
+            "thumbnail": "/data/images/home/bed_01.png",
+            "id": "bed-0001"
+        },
+        {
+            "name": "침대 2",
+            "prefabName": "Bed_02",
+            "price": 50,
+            "thumbnail": "/data/images/home/bed_02.png",
+            "id": "bed-0002"
+        },
+        {
+            "name": "침대 3",
+            "prefabName": "Bed_03",
+            "price": 50,
+            "thumbnail": "/data/images/home/bed_03.png",
+            "id": "bed-0003"
+        },
+        {
+            "name": "침대 4",
+            "prefabName": "Bed_04",
+            "price": 50,
+            "thumbnail": "/data/images/home/bed_04.png",
+            "id": "bed-0004"
+        },
+        {
+            "name": "침대 5",
+            "prefabName": "Bed_05",
+            "price": 50,
+            "thumbnail": "/data/images/home/bed_05.png",
+            "id": "bed-0005"
+        },
+        {
+            "name": "침대 6",
+            "prefabName": "Bed_06",
+            "price": 50,
+            "thumbnail": "/data/images/home/bed_06.png",
+            "id": "bed-0006"
+        }
+    ],
+    "chair": [
+        {
+            "name": "의자 1",
+            "prefabName": "Armchair_01",
+            "price": 50,
+            "thumbnail": "/data/images/home/chair_01.png",
+            "id": "chair-0001"
+        },
+        {
+            "name": "의자 2",
+            "prefabName": "Armchair_02",
+            "price": 50,
+            "thumbnail": "/data/images/home/chair_02.png",
+            "id": "chair-0002"
+        },
+        {
+            "name": "의자 3",
+            "prefabName": "Armchair_03",
+            "price": 50,
+            "thumbnail": "/data/images/home/chair_03.png",
+            "id": "chair-0003"
+        },
+        {
+            "name": "의자 4",
+            "prefabName": "Armchair_04",
+            "price": 50,
+            "thumbnail": "/data/images/home/chair_04.png",
+            "id": "chair-0004"
+        },
+        {
+            "name": "의자 5",
+            "prefabName": "Armchair_05",
+            "price": 50,
+            "thumbnail": "/data/images/home/chair_05.png",
+            "id": "chair-0005"
+        },
+        {
+            "name": "의자 6",
+            "prefabName": "Armchair_06",
+            "price": 50,
+            "thumbnail": "/data/images/home/chair_06.png",
+            "id": "chair-0006"
+        }
+    ],
+    "plant": [
+        {
+            "name": "식물 1",
+            "prefabName": "Plants_15",
+            "price": 50,
+            "thumbnail": "/data/images/home/plant_01.png",
+            "id": "plant-0001"
+        },
+        {
+            "name": "식물 2",
+            "prefabName": "Plants_16",
+            "price": 50,
+            "thumbnail": "/data/images/home/plant_02.png",
+            "id": "plant-0002"
+        },
+        {
+            "name": "식물 3",
+            "prefabName": "Plants_17",
+            "price": 50,
+            "thumbnail": "/data/images/home/plant_03.png",
+            "id": "plant-0003"
+        }
+    ],
+    "kitchen": [
+        {
+            "name": "주방 1",
+            "prefabName": "Kitchen_C_13",
+            "price": 50,
+            "thumbnail": "/data/images/home/kitchen_01.png",
+            "id": "kitchen-0001"
+        },
+        {
+            "name": "주방 2",
+            "prefabName": "Kitchen_C_12",
+            "price": 50,
+            "thumbnail": "/data/images/home/kitchen_02.png",
+            "id": "kitchen-0002"
+        }
+    ],
+    "closet": [
+        {
+            "name": "옷장 1",
+            "prefabName": "Closet_01",
+            "price": 50,
+            "thumbnail": "/data/images/home/closet_01.png",
+            "id": "closet-0001"
+        },
+        {
+            "name": "옷장 1",
+            "prefabName": "Closet_02",
+            "price": 50,
+            "thumbnail": "/data/images/home/closet_02.png",
+            "id": "closet-0002"
+        },
+        {
+            "name": "옷장 1",
+            "prefabName": "Closet_04",
+            "price": 50,
+            "thumbnail": "/data/images/home/closet_03.png",
+            "id": "closet-0003"
+        },
+        {
+            "name": "옷장 1",
+            "prefabName": "Closet_05",
+            "price": 50,
+            "thumbnail": "/data/images/home/closet_04.png",
+            "id": "closet-0004"
+        }
+    ],
+    "bathroom": [
+        {
+            "name": "화장실 1",
+            "prefabName": "Wash_Basin_03",
+            "price": 50,
+            "thumbnail": "/data/images/home/bathroom_01.png",
+            "id": "bathroom-0001"
+        },
+        {
+            "name": "화장실 2",
+            "prefabName": "Bath_01",
+            "price": 50,
+            "thumbnail": "/data/images/home/bathroom_02.png",
+            "id": "bathroom-0002"
+        },
+        {
+            "name": "화장실 3",
+            "prefabName": "Toilet_03",
+            "price": 50,
+            "thumbnail": "/data/images/home/bathroom_03.png",
+            "id": "bathroom-0003"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "",
+    "name": "경진우",
+    "gem": 0,
+    "item": {
+        "head": [
+
+        ],
+        "body": [
+            
+        ]
+    },
+    "currentItem": {
+        "head": {
+
+        },
+        "body": {
+            
+        }
+    },
+    "homeItem": {
+        "bed": {},
+        "chair": {},
+        "plant": {},
+        "kitchen": {},
+        "closet": {},
+        "bathroom": {}
+    },
+    "currentHomeItem": {
+        "bed": {},
+        "chair": {},
+        "plant": {},
+        "kitchen": {},
+        "closet": {},
+        "bathroom": {}
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "S120250000": {
+        "section": "s1",
+        "id": "20250000",
+        "devId": "S1_LV1_000",
+        "title": "관찰력",
+        "subTitle": "다른 그림 찾기",
+        "studyType": "findDifference",
+        "step": 3,
+        "hintCount": 2,
+        "useDrawing": false,
+        "studyController": {
+            "restart": false,
+            "rollback": false,
+            "correct": false
+        },
+        "isStudy": false,
+        "clear": false,
+        "gem": 80
+    },
+    "S220250000": {
+        "section": "s2",
+        "id": "20250000",
+        "devId": "S2_LV1_000",
+        "title": "수리력",
+        "subTitle": "길찾기",
+        "studyType": "findRoute",
+        "step": 3,
+        "hintCount": 2,
+        "useDrawing": true,
+        "studyController": {
+            "restart": true,
+            "rollback": true,
+            "correct": true
+        },
+        "isStudy": false,
+        "clear": false,
+        "gem": 100
+    },
+    "S320250000": {
+        "section": "s3",
+        "id": "20250000",
+        "devId": "S3_LV1_000",
+        "title": "이해력",
+        "subTitle": "스도쿠",
+        "studyType": "sudoku",
+        "step": 3,
+        "hintCount": 2,
+        "useDrawing": false,
+        "studyController": {
+            "restart": true,
+            "rollback": true,
+            "correct": true
+        },
+        "isStudy": false,
+        "clear": false,
+        "gem": 100
+    }
+}

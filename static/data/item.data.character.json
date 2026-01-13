@@ -1,0 +1,49 @@
+{
+    "head": [
+        {
+            "name": "모자 1",
+            "prefabName": "Hat1",
+            "price": 50,
+            "thumbnail": "/data/images/character/hat1.png",
+            "id": "head-0001"
+        },
+        {
+            "name": "모자 2",
+            "prefabName": "Hat2",
+            "price": 50,
+            "thumbnail": "/data/images/character/hat2.png",
+            "id": "head-0002"
+        },
+        {
+            "name": "모자 3",
+            "prefabName": "Hat3",
+            "price": 50,
+            "thumbnail": "/data/images/character/hat3.png",
+            "id": "head-0003"
+        },
+        {
+            "name": "모자 4",
+            "prefabName": "Hat4",
+            "price": 50,
+            "thumbnail": "/data/images/character/hat4.png",
+            "id": "head-0004"
+        },
+        {
+            "name": "모자 5",
+            "prefabName": "Hat5",
+            "price": 50,
+            "thumbnail": "/data/images/character/hat5.png",
+            "id": "head-0005"
+        },
+        {
+            "name": "모자 6",
+            "prefabName": "Hat6",
+            "price": 50,
+            "thumbnail": "/data/images/character/hat6.png",
+            "id": "head-0006"
+        }
+    ],
+    "body": [
+        
+    ]
+}
